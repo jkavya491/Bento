@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://www.aakash.ac.in/dashboard',
 				},
 				{
-					name: 'Articles',
-					link: 'https://longform.org/',
+					name: 'Notes',
+					link: 'https://keep.google.com/#label/Personal',
 				},
 				{
 					name: 'Study material',
