@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'https://openweathermap.org/city/1254661', // Write here your API Key
+	weatherKey: '1254661', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://app.studystream.live/',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://getpocket.com/home',
+					name: 'Itutor',
+					link: 'https://www.aakash.ac.in/dashboard',
 				},
 				{
 					name: 'Articles',
 					link: 'https://longform.org/',
 				},
 				{
-					name: 'Books',
-					link: 'https://b-ok.asia/?signAll=1&ts=1450',
+					name: 'Study material',
+					link: 'https://www.khanacademy.org',
 				},
 			],
 		},
