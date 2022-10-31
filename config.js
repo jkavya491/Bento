@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://tasksboard.com/app',
+			name: 'Longform',
+			icon: 'newspaper',
+			link: 'https://longform.org/',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Pocket',
+			icon: 'pocket',
+			link: 'https://getpocket.com/home?src=sidebar',
 		},
 		{
 			id: '6',
