@@ -147,12 +147,12 @@ const CONFIG = {
 					link: 'https://web.whatsapp.com/',
 				},
 				{
-					name: 'Pinterest',
-					link: 'https://in.pinterest.com/',
+					name: 'Twitter',
+					link: 'https://twitter.com/home',
 				},
 				{
-					name: 'Telegram',
-					link: 'https://web.telegram.org/k/',
+					name: 'Reddit',
+					link: 'https://www.reddit.com/',
 				},
 			],
 		},
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://www.aakash.ac.in/dashboard',
 				},
 				{
-					name: 'Notes',
-					link: 'https://keep.google.com/#label/Personal',
+					name: 'Toppr',
+					link: 'https://www.toppr.com/ask/',
 				},
 				{
 					name: 'Study material',
