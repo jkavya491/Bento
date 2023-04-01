@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://web.whatsapp.com/',
 				},
 				{
-					name: 'Twitter',
-					link: 'https://twitter.com/home',
+					name: 'GPT',
+					link: 'https://chat.openai.com/chat',
 				},
 				{
 					name: 'Reddit',
