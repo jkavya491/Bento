@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Anime',
 			icon: 'tv',
-			link: 'https://animixplay.to/',
+			link: 'https://animesuge.to/home',
 		},
 		{
 			id: '2',
